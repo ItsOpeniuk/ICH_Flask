@@ -1,0 +1,38 @@
+# Файлы и папки, созданные локальными IDE
+.idea/
+.vscode/
+
+# Виртуальные окружения Python
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+
+# Кеш и временные файлы
+.cache/
+.tmp/
+*.log
+*.swp
+
+# Локальные настройки
+*.local
+*.ini
+*.env
+
+# Файлы с личной информацией
+config.ini
+secrets.json
+
+# Компилированные файлы и результаты сборки
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+/target/
+/build/
+/bin/
+/dist/
+/node_modules/
